@@ -2,3 +2,4 @@
 .idea/
 .temp
 Makefile.local
+vendor/
